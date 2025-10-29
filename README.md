@@ -54,6 +54,8 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
    
       - Build presentation deck using Gamma AI
   
-
+## Contact
+-   Name - ahmedm
+-   Email - mrahmedm09@gmail.com
 
 
